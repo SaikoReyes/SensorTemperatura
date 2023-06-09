@@ -36,7 +36,7 @@ etiqueta_temperatura = tk.Label(ventana, text='0 / 255')
 etiqueta_temperatura.pack()
 
 # Valores de prueba
-valores_prueba = [50, 100, 150, 200, 250]
+valores_prueba = [50, 100, 150, 200, 250, 220, 190, 180, 170, 200, 150, 120, 95]
 
 # Mostrar los valores de prueba en forma gráfica
 for valor in valores_prueba:
